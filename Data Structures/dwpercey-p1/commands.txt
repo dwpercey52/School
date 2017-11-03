@@ -1,0 +1,109 @@
+mkdir Dir1
+mkdir Dir2
+ls
+cd Dir1
+addf F1
+addf F1
+addf F2
+cp F2 F3
+mv F3 F4
+ls
+mkdir DirSub1
+whereis F4
+whereis F8
+cd .. 
+cd .. 
+cd ..
+rm Dir1
+rm Dir
+cd Dir1
+whereis F4
+cd Dir2
+mkdir Dirsub1
+mkdir Dirsub2
+cd Dirsub2
+addf F1
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+whereis F1
+whereis Dirsub2
+whereis Dir2
+whereis Dirsub1
+pwd
+ls
+mkdir D3
+mkdir D2
+cd D2
+mkdir D1
+cd D1
+pwd
+addf F1
+cd ..
+addf F1
+whereis F1
+ls
+bye
+ls
+cd D4
+pwd
+cd D1
+addf F1
+cp F1 F9
+ls
+mkdir D1
+cp D2 D4
+ls
+cp D1 D3
+ls
+mv D1 D4
+ls
+bye
+cp D1 D3
+addf F1
+addf F2
+rm F2
+cp F1 F2
+cp F1 F2
+ls
+cd D4
+cd D3
+cd .. 
+cd D3
+ls
+cd ..
+ls
+cd D4
+cd D3
+cd C4
+pwd
+addf F1
+test
+addf F2
+rm F2
+mkdir D8
+cd ..
+mkdir D1
+ls
+cd D1
+pwd
+mkdir D5
+cd D5
+pwd
+addf F7
+addf F3
+ls
+rm F3
+mkdir D1
+rm D1
+mkdir D1
+mkdir D4
+mkdir D6
+mkdir D2
+rm D2
+rm D6
+ls
+bye

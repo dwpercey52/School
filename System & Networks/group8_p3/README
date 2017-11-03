@@ -1,0 +1,6 @@
+After running the program multiple times it successfully worked.
+However I'm a little wary of the way I implemented the semaphores.
+If at all possible maybe give good feedback or edit the code if you have the chance!
+I would love to see a good "solution" to this program. I feel like I understand
+generally about locks/semaphores but implementing them kind of confused me. 
+	

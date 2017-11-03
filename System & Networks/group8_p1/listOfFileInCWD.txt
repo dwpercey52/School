@@ -1,0 +1,11 @@
+listOfFileInCWD.txt
+makefile
+myshell
+myshell.c
+myshell.o
+output.txt
+parse.c
+parse.h
+parse.o
+prime
+testme
